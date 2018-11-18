@@ -2,11 +2,13 @@
 
 Predictive analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fintech project for quantitative analysis[Project X](https://lab28.ryver.com/). Click [here](https://encrypted.google.com) to learn more
 
-### Markdown
+### Progress / Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data Crawlers
+Number Data Model
+
 
 ```markdown
 Syntax highlighted code block
