@@ -8,6 +8,7 @@ Fintech project for quantitative analysis [Project X](https://lab28.ryver.com/).
 
 Data Crawlers
 Number Data Model
+Stock Quants
 
 
 ```markdown
