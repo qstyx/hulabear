@@ -2,7 +2,7 @@
 
 Predictive analysis
 
-Fintech project for quantitative analysis[Project X](https://lab28.ryver.com/). Click [here](https://encrypted.google.com) to learn more
+Fintech project for quantitative analysis [Project X](https://lab28.ryver.com/). Click [here](https://encrypted.google.com) to learn more
 
 ### Progress / Features
 
